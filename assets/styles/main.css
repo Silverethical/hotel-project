@@ -8,6 +8,17 @@
 /* END: section 1 */
 
 /* START: section 2 */
+		body{margin: 0 auto;}
+        .section-two{background-color: #e2c285;border: 1px rgb(226, 194, 133) solid}
+/*black-colments-style*/
+		.section-two-black-columents {margin: 80px auto}
+		.section-two-black-columents h1{color: #e2c285;text-align: center;font-size: 36px;font-style: normal;font-weight: 400;}
+		.section-two-black-columents >h1 >img{width:109px ;height: 29px}
+		.sectiontwo-btn{border-radius: 0px;border-color: rgb(226, 194, 133);color: rgb(226, 194, 133);background-color: transparent;height: 40px}
+		.sectiontwo-btn:hover {background-color: rgb(226, 194, 133);color: black}
+        .sectiontwo-rowone{background-color:#101010;width: 504px;height: 451px;display:inline-flex;justify-content: space-between;vertical-align: middle;margin-left: -1.5px;}
+        .section-two img{width: 504px;height: 451px;}
+        .sectiontwo-rowtwo{background-color:#101010;width: 504px;height: 451px;display:inline-flex;justify-content: space-between;vertical-align: middle;margin-left: -1.5px;text-transform: uppercase;font-style: normal;font-weight: 400;font-family: montserrat ultralight;}
 /* END: section 2 */
 
 /* START: section 3 */
